@@ -5,3 +5,6 @@ Dataset to be added
 
 Instructions : 
 Download the Dataset to show it (https://github.com/osmansefayuksel/Signature-Recognition-with-SiameseNetwork-and-CycleGAN/tree/main?tab=readme-ov-file)
+git upload this git clone https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix and change in cyclegain-train.ipynb
+Change the dataset !python train.py --dataroot /content/pytorch-CycleGAN-and-pix2pix/datasets/signdata --name signdata --model cycle_gan here
+Change the dataset !python test.py --dataroot /content/pytorch-CycleGAN-and-pix2pix/datasets/signdata/testB --name signdata --model test --no_dropout
