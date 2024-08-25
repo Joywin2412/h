@@ -1,1 +1,7 @@
 https://github.com/osmansefayuksel/Signature-Recognition-with-SiameseNetwork-and-CycleGAN.git
+
+For further work going to add my Signature
+Dataset to be added
+
+Instructions : 
+Download the Dataset to show it (https://github.com/osmansefayuksel/Signature-Recognition-with-SiameseNetwork-and-CycleGAN/tree/main?tab=readme-ov-file)
