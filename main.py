@@ -44,8 +44,8 @@ model.load_weights('signet.h5')
 
 threshold = 0.5
 
-img1 = cv2.imread("harshit.jpg")
-img2 = cv2.imread("chinmay.jpg")
+img1 = cv2.imread("Gercek.jpg")
+img2 = cv2.imread("Gercek2.jpg")
 
 img1 = cv2.cvtColor(img1, cv2.COLOR_BGR2GRAY)
 img2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)
